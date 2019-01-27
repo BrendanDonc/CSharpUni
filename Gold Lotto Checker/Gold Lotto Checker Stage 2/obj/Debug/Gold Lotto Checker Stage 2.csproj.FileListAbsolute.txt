@@ -1,0 +1,12 @@
+\\qut.edu.au\Documents\StaffHome\staffgroupR$\roggenka\Documents\Visual Studio 2015\Projects\Gold Lotto Checker\Gold Lotto Checker Stage 2\bin\Debug\Gold Lotto Checker Stage 2.exe.config
+\\qut.edu.au\Documents\StaffHome\staffgroupR$\roggenka\Documents\Visual Studio 2015\Projects\Gold Lotto Checker\Gold Lotto Checker Stage 2\bin\Debug\Gold Lotto Checker Stage 2.exe
+\\qut.edu.au\Documents\StaffHome\staffgroupR$\roggenka\Documents\Visual Studio 2015\Projects\Gold Lotto Checker\Gold Lotto Checker Stage 2\bin\Debug\Gold Lotto Checker Stage 2.pdb
+\\qut.edu.au\Documents\StaffHome\staffgroupR$\roggenka\Documents\Visual Studio 2015\Projects\Gold Lotto Checker\Gold Lotto Checker Stage 2\obj\Debug\Gold Lotto Checker Stage 2.csprojResolveAssemblyReference.cache
+\\qut.edu.au\Documents\StaffHome\staffgroupR$\roggenka\Documents\Visual Studio 2015\Projects\Gold Lotto Checker\Gold Lotto Checker Stage 2\obj\Debug\Gold Lotto Checker Stage 2.exe
+\\qut.edu.au\Documents\StaffHome\staffgroupR$\roggenka\Documents\Visual Studio 2015\Projects\Gold Lotto Checker\Gold Lotto Checker Stage 2\obj\Debug\Gold Lotto Checker Stage 2.pdb
+C:\Users\longs\Documents\Visual Studio 2017\Projects\Gold Lotto Checker\Gold Lotto Checker Stage 2\bin\Debug\Gold Lotto Checker Stage 2.exe.config
+C:\Users\longs\Documents\Visual Studio 2017\Projects\Gold Lotto Checker\Gold Lotto Checker Stage 2\bin\Debug\Gold Lotto Checker Stage 2.exe
+C:\Users\longs\Documents\Visual Studio 2017\Projects\Gold Lotto Checker\Gold Lotto Checker Stage 2\bin\Debug\Gold Lotto Checker Stage 2.pdb
+C:\Users\longs\Documents\Visual Studio 2017\Projects\Gold Lotto Checker\Gold Lotto Checker Stage 2\obj\Debug\Gold Lotto Checker Stage 2.csprojResolveAssemblyReference.cache
+C:\Users\longs\Documents\Visual Studio 2017\Projects\Gold Lotto Checker\Gold Lotto Checker Stage 2\obj\Debug\Gold Lotto Checker Stage 2.exe
+C:\Users\longs\Documents\Visual Studio 2017\Projects\Gold Lotto Checker\Gold Lotto Checker Stage 2\obj\Debug\Gold Lotto Checker Stage 2.pdb

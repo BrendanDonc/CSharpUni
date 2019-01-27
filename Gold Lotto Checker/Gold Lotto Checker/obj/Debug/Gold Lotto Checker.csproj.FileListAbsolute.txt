@@ -1,0 +1,25 @@
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Gold Lotto Checker\Gold Lotto Checker\bin\Debug\Gold Lotto Checker.exe.config
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Gold Lotto Checker\Gold Lotto Checker\bin\Debug\Gold Lotto Checker.exe
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Gold Lotto Checker\Gold Lotto Checker\bin\Debug\Gold Lotto Checker.pdb
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Gold Lotto Checker\Gold Lotto Checker\obj\Debug\Gold Lotto Checker.csprojResolveAssemblyReference.cache
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Gold Lotto Checker\Gold Lotto Checker\obj\Debug\Gold Lotto Checker.exe
+\\qut.edu.au\documents\staffhome\staffgroupr$\roggenka\documents\visual studio 2015\Projects\Gold Lotto Checker\Gold Lotto Checker\obj\Debug\Gold Lotto Checker.pdb
+C:\Users\longs\Documents\Visual Studio 2017\Projects\Gold Lotto Checker\Gold Lotto Checker\obj\Debug\Gold Lotto Checker.csprojResolveAssemblyReference.cache
+C:\Users\longs\Documents\Visual Studio 2017\Projects\Gold Lotto Checker\Gold Lotto Checker\obj\Debug\Gold Lotto Checker.exe
+C:\Users\longs\Documents\Visual Studio 2017\Projects\Gold Lotto Checker\Gold Lotto Checker\obj\Debug\Gold Lotto Checker.pdb
+C:\Users\longs\Documents\Visual Studio 2017\Projects\Gold Lotto Checker\Gold Lotto Checker\bin\Debug\Gold Lotto Checker.exe.config
+C:\Users\longs\Documents\Visual Studio 2017\Projects\Gold Lotto Checker\Gold Lotto Checker\bin\Debug\Gold Lotto Checker.exe
+C:\Users\longs\Documents\Visual Studio 2017\Projects\Gold Lotto Checker\Gold Lotto Checker\bin\Debug\Gold Lotto Checker.pdb
+C:\Users\longs\Documents\Gold Lotto Checker\Gold Lotto Checker\bin\Debug\Gold Lotto Checker.exe.config
+C:\Users\longs\Documents\Gold Lotto Checker\Gold Lotto Checker\bin\Debug\Gold Lotto Checker.exe
+C:\Users\longs\Documents\Gold Lotto Checker\Gold Lotto Checker\bin\Debug\Gold Lotto Checker.pdb
+C:\Users\longs\Documents\Gold Lotto Checker\Gold Lotto Checker\obj\Debug\Gold Lotto Checker.csprojResolveAssemblyReference.cache
+C:\Users\longs\Documents\Gold Lotto Checker\Gold Lotto Checker\obj\Debug\Gold Lotto Checker.exe
+C:\Users\longs\Documents\Gold Lotto Checker\Gold Lotto Checker\obj\Debug\Gold Lotto Checker.pdb
+C:\Users\longs\Documents\Old Uni\CAB201\Gold Lotto Checker\Gold Lotto Checker\bin\Debug\Gold Lotto Checker.exe.config
+C:\Users\longs\Documents\Old Uni\CAB201\Gold Lotto Checker\Gold Lotto Checker\bin\Debug\Gold Lotto Checker.exe
+C:\Users\longs\Documents\Old Uni\CAB201\Gold Lotto Checker\Gold Lotto Checker\bin\Debug\Gold Lotto Checker.pdb
+C:\Users\longs\Documents\Old Uni\CAB201\Gold Lotto Checker\Gold Lotto Checker\obj\Debug\Gold Lotto Checker.csprojResolveAssemblyReference.cache
+C:\Users\longs\Documents\Old Uni\CAB201\Gold Lotto Checker\Gold Lotto Checker\obj\Debug\Gold Lotto Checker.csproj.CoreCompileInputs.cache
+C:\Users\longs\Documents\Old Uni\CAB201\Gold Lotto Checker\Gold Lotto Checker\obj\Debug\Gold Lotto Checker.exe
+C:\Users\longs\Documents\Old Uni\CAB201\Gold Lotto Checker\Gold Lotto Checker\obj\Debug\Gold Lotto Checker.pdb

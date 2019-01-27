@@ -1,0 +1,5 @@
+c:\users\longs\documents\visual studio 2017\Projects\WTH\WTH\bin\Debug\WTH.exe.config
+c:\users\longs\documents\visual studio 2017\Projects\WTH\WTH\bin\Debug\WTH.exe
+c:\users\longs\documents\visual studio 2017\Projects\WTH\WTH\bin\Debug\WTH.pdb
+c:\users\longs\documents\visual studio 2017\Projects\WTH\WTH\obj\Debug\WTH.exe
+c:\users\longs\documents\visual studio 2017\Projects\WTH\WTH\obj\Debug\WTH.pdb
