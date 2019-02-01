@@ -63,23 +63,3 @@ C:\Users\Jesse\Documents\card_games_B-20170604T045918Z-001\card_games_B\card_gam
 C:\Users\longs\Documents\Visual Studio 2017\Projects\card_games\card_games\obj\Debug\card_games.pigWithTwoDice.resources
 C:\Users\longs\Documents\Visual Studio 2017\Projects\card_games\card_games\obj\Debug\card_games.solitaireForm.resources
 C:\Users\longs\Documents\Visual Studio 2017\Projects\card_games\card_games\obj\Debug\card_games.z.resources
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\bin\Debug\card_games.exe.config
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\bin\Debug\card_games.exe
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\bin\Debug\card_games.pdb
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\bin\Debug\Games Logic Library.dll
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\bin\Debug\Low Level Objects Library.dll
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\bin\Debug\Low Level Objects Library.pdb
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\bin\Debug\Games Logic Library.pdb
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\obj\Debug\card_games.csprojResolveAssemblyReference.cache
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\obj\Debug\card_games.cardGames.resources
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\obj\Debug\card_games.diceGamesForm.resources
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\obj\Debug\card_games.mainMenu.resources
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\obj\Debug\card_games.PigGameForm.resources
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\obj\Debug\card_games.pigWithTwoDice.resources
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\obj\Debug\card_games.Properties.Resources.resources
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\obj\Debug\card_games.solitaireForm.resources
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\obj\Debug\card_games.z.resources
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\obj\Debug\card_games.csproj.GenerateResource.Cache
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\obj\Debug\card_games.csproj.CoreCompileInputs.cache
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\obj\Debug\card_games.exe
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\card_games\obj\Debug\card_games.pdb

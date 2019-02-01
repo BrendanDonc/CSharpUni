@@ -6,9 +6,3 @@ C:\Users\Jesse\Documents\card_games_B-20170604T045918Z-001\card_games_B\card_gam
 C:\Users\Jesse\Documents\card_games_B-20170604T045918Z-001\card_games_B\card_games\Low Level Objects Library\bin\Debug\Low Level Objects Library.pdb
 C:\Users\Jesse\Documents\card_games_B-20170604T045918Z-001\card_games_B\card_games\Low Level Objects Library\obj\Debug\Low Level Objects Library.dll
 C:\Users\Jesse\Documents\card_games_B-20170604T045918Z-001\card_games_B\card_games\Low Level Objects Library\obj\Debug\Low Level Objects Library.pdb
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\Low Level Objects Library\bin\Debug\Low Level Objects Library.dll
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\Low Level Objects Library\bin\Debug\Low Level Objects Library.pdb
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\Low Level Objects Library\obj\Debug\Low Level Objects Library.csprojResolveAssemblyReference.cache
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\Low Level Objects Library\obj\Debug\Low Level Objects Library.csproj.CoreCompileInputs.cache
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\Low Level Objects Library\obj\Debug\Low Level Objects Library.dll
-C:\Users\longs\Documents\Old Uni\CAB201\card_games\Low Level Objects Library\obj\Debug\Low Level Objects Library.pdb
