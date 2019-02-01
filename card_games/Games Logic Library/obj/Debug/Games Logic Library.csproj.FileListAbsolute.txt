@@ -1,0 +1,14 @@
+C:\Users\longs\Documents\Visual Studio 2017\Projects\card_games\Games Logic Library\bin\Debug\Games Logic Library.dll
+C:\Users\longs\Documents\Visual Studio 2017\Projects\card_games\Games Logic Library\bin\Debug\Games Logic Library.pdb
+C:\Users\longs\Documents\Visual Studio 2017\Projects\card_games\Games Logic Library\bin\Debug\Low Level Objects Library.dll
+C:\Users\longs\Documents\Visual Studio 2017\Projects\card_games\Games Logic Library\bin\Debug\Low Level Objects Library.pdb
+C:\Users\longs\Documents\Visual Studio 2017\Projects\card_games\Games Logic Library\obj\Debug\Games Logic Library.csprojResolveAssemblyReference.cache
+C:\Users\longs\Documents\Visual Studio 2017\Projects\card_games\Games Logic Library\obj\Debug\Games Logic Library.dll
+C:\Users\longs\Documents\Visual Studio 2017\Projects\card_games\Games Logic Library\obj\Debug\Games Logic Library.pdb
+C:\Users\Jesse\Documents\card_games_B-20170604T045918Z-001\card_games_B\card_games\Games Logic Library\bin\Debug\Games Logic Library.dll
+C:\Users\Jesse\Documents\card_games_B-20170604T045918Z-001\card_games_B\card_games\Games Logic Library\bin\Debug\Games Logic Library.pdb
+C:\Users\Jesse\Documents\card_games_B-20170604T045918Z-001\card_games_B\card_games\Games Logic Library\bin\Debug\Low Level Objects Library.dll
+C:\Users\Jesse\Documents\card_games_B-20170604T045918Z-001\card_games_B\card_games\Games Logic Library\bin\Debug\Low Level Objects Library.pdb
+C:\Users\Jesse\Documents\card_games_B-20170604T045918Z-001\card_games_B\card_games\Games Logic Library\obj\Debug\Games Logic Library.dll
+C:\Users\Jesse\Documents\card_games_B-20170604T045918Z-001\card_games_B\card_games\Games Logic Library\obj\Debug\Games Logic Library.pdb
+C:\Users\Jesse\Documents\card_games_B-20170604T045918Z-001\card_games_B\card_games\Games Logic Library\obj\Debug\Games Logic Library.csprojResolveAssemblyReference.cache
